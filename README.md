@@ -19,13 +19,12 @@ text
 
 To run the full benchmark, use the provided shell script. For example:
 
-./run_full_benchmark.sh videofile.h264
+./run_full_benchmark.sh videofile.h264 [num_executions]
 
 text
 
 - Replace `videofile.h264` with your input video file.
-
-You will be prompted to specify how many times you want to run the algorithm in parallel. Enter the desired number to proceed.
+- `[num_executions]` is optional and specifies how many times you want to run the algorithm in parallel. The default is 1 if you don't specify it.
 
 During execution, you’ll be presented with options. If you select **option `0`**, the script will:
 - Run all benchmarks.
