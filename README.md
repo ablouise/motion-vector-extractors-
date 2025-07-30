@@ -36,3 +36,6 @@ After the benchmarks are complete:
 <img width="1600" height="900" alt="scaling_timeperframe" src="https://github.com/user-attachments/assets/16ae1c73-3a82-4525-b752-12fa3311d01d" />
 
 <img width="3077" height="1112" alt="detail_table_15streams" src="https://github.com/user-attachments/assets/e1e74285-9eb4-4354-b18c-13a192364db4" />
+
+> **Note:** The 3 with FFMPEG Patched use the Naive return version of FFMPEG.
+
