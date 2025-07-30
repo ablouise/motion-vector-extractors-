@@ -5,15 +5,8 @@
 To set up and use this project, follow these steps:
 
 1. **Clone the repository**
-git clone <REPO_URL>
-cd <REPO_NAME>
-
-text
-
 2. **Install the required Python packages**
 pip install -r requirements.txt
-
-text
 
 ## Running the Benchmark
 
