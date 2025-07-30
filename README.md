@@ -23,5 +23,3 @@ During execution, you’ll be presented with options. If you select **option `0`
 - Create a PowerPoint presentation (PPT).
 
 > **Note:** Selecting option 0 will take longer because it performs both the benchmarks and the full reporting.
-
-Feel free to modify this template with more details about your project, usage examples, or specific instructions tailored to your workflow.
